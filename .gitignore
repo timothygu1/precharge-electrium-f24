@@ -1,0 +1,4 @@
+!.gitignore
+/precharge-electrium-f24-backups
+/_autosave*
+/~_autosave*
